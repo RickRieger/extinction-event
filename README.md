@@ -1,6 +1,6 @@
 # Extinction Event
 
-We'll start at the uninteractive website that is our [starting point](http://extinction-event-starting-point.surge.sh/) and end up at this highly interactive (if not revolutionary) [web app](http://extinction-event-solution.surge.sh/).
+We'll start at the uninteractive website that is our [starting point](http://extinction-event-starting-point.surge.sh/) and end up at this highly interactive (if not revolutionary) [web app](http://extinciton-event-solution.surge.sh/).
 
 In between, we'll be adding a fair amount of JavaScript to make that happen!
 
