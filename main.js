@@ -63,7 +63,7 @@ for (const img of images) {
 
 
 
-document.addEventListener('click', function (event){
-    const elementThatWasClicked = event.target;
-    elementThatWasClicked.style.backgroundColor = 'blue';
-});
+// document.addEventListener('click', function (event){
+//     const elementThatWasClicked = event.target;
+//     elementThatWasClicked.style.backgroundColor = 'blue';
+// });
